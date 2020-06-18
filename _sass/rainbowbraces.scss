@@ -1,0 +1,18 @@
+:root{
+	--solarized-magenta:#d33682;/*211,  54, 130*/
+	--solarized-red:    #dc322f;/*220,  50,  47*/
+	--solarized-orange: #cb4b16;/*203,  75,  22*/
+	--solarized-yellow: #b58900;/*181, 137,   0*/
+	--solarized-green:  #859900;/*133, 153,   0*/
+	--solarized-cyan:   #2aa198;/* 42, 161, 152*/
+	--solarized-blue:   #268bd2;/* 38, 139, 210*/
+	--solarized-violet: #6c71c4;/*108, 113, 196*/
+}
+.brace-depth-0{color: var(--solarized-magenta);}
+.brace-depth-1{color: var(--solarized-red);}
+.brace-depth-2{color: var(--solarized-orange);}
+.brace-depth-3{color: var(--solarized-yellow);}
+.brace-depth-4{color: var(--solarized-green);}
+.brace-depth-5{color: var(--solarized-cyan);}
+.brace-depth-6{color: var(--solarized-blue);}
+.brace-depth-7{color: var(--solarized-violet);}
